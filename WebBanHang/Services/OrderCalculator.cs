@@ -11,6 +11,6 @@ public class OrderCalculator
         if (quantity < 0)
             throw new ArgumentException("Quantity cannot be negative.");
 
-        return unitPrice * quantity;
+        return unitPrice + quantity;
     }
 }
