@@ -30,3 +30,4 @@ namespace WebBanHang.Controllers
         }
     }
 }
+// Test Jenkins auto trigger
