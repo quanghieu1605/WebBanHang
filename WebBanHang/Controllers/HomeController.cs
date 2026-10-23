@@ -31,3 +31,4 @@ namespace WebBanHang.Controllers
     }
 }
 // Test Jenkins auto trigger
+// Test GitHub webhook
